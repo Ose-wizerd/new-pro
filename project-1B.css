@@ -1,0 +1,163 @@
+*{
+  padding: 0;
+  margin:0;
+  font-family: sans-serif;
+}
+.head{
+  display: flex;
+  align-items: center;
+  gap:270px;
+  background-color:#07061b ;
+  width:800px;
+  margin:0 auto;
+  column-gap: 450px;
+}
+.head img{
+  padding: 10px;
+}
+
+.link1:link{
+  text-decoration:none;
+  
+  margin-right:10px;
+}
+
+.link1:visited{
+  background-color:#654343;
+}
+.link1:hover{
+  background-color:#060430;
+  font-weight:bold;
+}
+
+.link1:active{
+  background-color: #123455;
+}
+
+.education{
+  width:800px;
+  margin:0 auto;
+  background-color: #5b5981b6;
+  height:300px;
+  
+}
+.box1{
+  border:4px solid rgb(5, 129, 138);
+  width:170px;
+  height:100px;
+  border-radius: 5px;
+}
+
+.edu{
+  display:flex;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 30px;
+}
+.link2:link{
+  background-color:#5b5981b6 ;
+  color:azure;
+  display:inline-block;
+  padding:2px 8px;
+  text-decoration: none;
+  margin-left:130px;
+  border-radius: 3px;
+  position: relative;
+  top:-30px;
+}
+.link2:visited{
+  color:azure;
+}
+.link2:hover{
+  background-color:rgba(0, 128, 0, 0.74);
+  border-radius: 5px;
+  font-weight:bold;
+}
+.link2:active{
+  background-color: #543;
+}
+
+.p1{
+  font-size:18px;
+  font-weight: bold;
+  margin:20px;
+  margin-bottom: 10px;
+  margin-top: 0;
+  
+}
+.h1{
+  padding-top: 15px;
+  margin-left:50px;
+}
+.religin{
+  background-color: rgba(15, 100, 72, 0.658);
+  width:800px;
+  margin:0 auto;
+  height:300px;
+}
+
+.rel{
+  border:4px solid #543;
+  width:170px;
+  height: 100px;
+  border-radius: 5px;
+}
+
+.box2{
+  display:flex;
+  height:200px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 30px;
+}
+
+.link3:link{
+  background-color:rgba(15, 100, 72, 0.658) ;
+  color:azure;
+  display:inline-block;
+  padding:2px 8px;
+  text-decoration: none;
+  margin-left:120px;
+  margin-top: 10px;
+  border-radius: 3px;
+  position: relative;
+  top:-20px;
+}
+.link3:visited{
+  color:azure;
+}
+.link3:hover{
+  background-color:rgba(0, 128, 0, 0.74);
+  border-radius: 5px;
+  font-weight:bold;
+}
+.link3:active{
+  background-color: #543;
+}
+
+.p2{
+  font-size:18px;
+  font-weight: bold;
+  margin:5px 0 0 10px;
+}
+
+.h2{
+  padding-top: 15px;
+  margin-left:50px;
+}
+
+.total5{
+  width:800px;
+  margin:0 auto;
+  background-color: #07061bea;
+  height:50px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+ color:#fff;
+ border-radius: 3px;
+}
+.l3{
+  left:15px;
+}
